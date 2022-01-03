@@ -1,5 +1,4 @@
 import os
-from bs4 import BeautifulSoup
 import unittest
 from web_scarper import web_scraper, save_to_json
 
