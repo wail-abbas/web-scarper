@@ -14,7 +14,7 @@ python3 web_scarper.py <html_path> <output_path>
 	
 Where:
 
-html_path : is the full path to the HTML file
-output_path: is the path where you want to save the output file
+* html_path : is the full path to the HTML file
+* output_path: is the path where you want to save the output file
 
 The JSON file with the hotel's name will be saved in the output_path.
